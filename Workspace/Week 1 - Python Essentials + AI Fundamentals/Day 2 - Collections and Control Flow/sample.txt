@@ -1,0 +1,3 @@
+Python is useful. Python is easy to learn.
+
+Java developers can learn Python. Python supports AI development.
